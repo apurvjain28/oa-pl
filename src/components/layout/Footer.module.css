@@ -1,0 +1,14 @@
+.footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer a {
+  font-size: 6px;
+  text-decoration: none;
+  color: gray;
+}
+
+.footer a:hover {
+  color: white;
+}

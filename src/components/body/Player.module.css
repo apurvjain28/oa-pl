@@ -1,0 +1,36 @@
+.playerStats {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 6px;
+}
+
+.player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: -5px;
+  text-transform: uppercase;
+}
+
+.player_image {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 2px;
+  background-color: #dee2e6;
+  border-color: white;
+}
+
+.name {
+  font-size: 6px;
+  color: gray;
+}
+
+.points {
+  border: 2px solid lightgray;
+  border-radius: 100%;
+  padding: 3px;
+  font-size: 8px;
+  font-weight: bold;
+}
