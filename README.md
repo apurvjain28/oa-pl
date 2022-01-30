@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![playline2](https://user-images.githubusercontent.com/54246887/151707997-1007b6fa-595b-4bd1-83ad-d72c82d6a06b.jpg)
 ![playline3](https://user-images.githubusercontent.com/54246887/151707998-e18240c9-dee6-4d54-9389-98ecc61d11ed.jpg)
 
-## Slide animation for Modal 
-## Deployed Link is here: https://playline-homepage.vercel.app/. << CORS restrictions on backend API
+Slide animation for Modal 
+Deployed Link is here: https://playline-homepage.vercel.app/. << CORS restrictions on backend API
 
 
 ## Available Scripts
